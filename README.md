@@ -43,8 +43,9 @@ I'm learning📖
   <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="55" height="55"/> <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" width="55" height="55"/>
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="55" height="55"/> <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="55" height="55"/>
   <img src="https://img.icons8.com/?size=100&id=u9R54eMKS8fw&format=png&color=000000" width="55" height="55"/> <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="55" height="55"/> 
-  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" width="55" height="55"/> <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" width="55" height="55"/> 
-  <img src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" width="55" height="55"/>
+  <img src="https://img.icons8.com/?size=100&id=4QbG49Iqx1gQ&format=png&color=000000" width="55" height="55"/> <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" width="55" height="55"/>
+  <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" width="55" height="55"/> <img src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" width="55" height="55"/>
+  
 <p/>
 
 <br>
@@ -60,7 +61,7 @@ Developer Tools💻
   <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" width="55" heigth="55"/>
   <img src="https://a.fsdn.com/allura/p/wampserver/icon?1716278993?&w=90" width="55" heigth="55"/>
   <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="55" heigth="55"/>
-  <img src="https://img.icons8.com/?size=100&id=FwaVI1qCE7hQ&format=png&color=000000" width="55" heigth="55"/>
+  <img src="https://img.icons8.com/?size=100&id=4QbG49Iqx1gQ&format=png&color=000000" width="55" heigth="55"/>
   <img src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" width="55" heigth="55"/>
   <img src="https://img.icons8.com/?size=100&id=TUk7vxvtu6hX&format=png&color=000000" width="55" heigth="55"/>
   <img src="https://img.icons8.com/?size=100&id=eoxMN35Z6JKg&format=png&color=000000" width="55" heigth="55"/>
