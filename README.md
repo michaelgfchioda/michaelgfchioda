@@ -78,6 +78,14 @@ Social Links
   <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="55" height="55"/>
 <a/>
 
+<a href="https://x.com/michaelchioda" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=oaaSr6h7kwm6&format=png&color=000000" width="55" height="55"/>
+<a/>
+
+<a href="https://www.instagram.com/michael_chioda" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" width="55" height="55"/>
+<a/>
+
 <a href="https://www.youtube.com/@michaelchioda17" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" width="55" height="55"/>
 <a/>
