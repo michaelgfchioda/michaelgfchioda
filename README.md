@@ -102,5 +102,5 @@ My GitHub Statistics📊 <h2/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=michaelgfchioda&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://streak-stats.demolab.com?user=michaelgfchioda&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelgfchioda&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelgfchioda&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1800" height="150"/>
 </p>
