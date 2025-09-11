@@ -7,6 +7,10 @@ What's up! Welcome, I'm Michael Chioda!👋🏻
   <img src="https://img.shields.io/github/followers/michaelgfchioda?style=social" height="40"/>
 </p>
 
+<p align="center">
+<img src="https://i.postimg.cc/C1DGxHKW/Banner1.jpg" width="1280" height="720"/>
+</p>
+
 <p align="center"> <strong> Seja bem-vindo ao meu portifólio! Este é o meu espaço de aprendizado e evolução no mundo da tecnologia! </strong> <p/>
 
 <h2 align="center">
