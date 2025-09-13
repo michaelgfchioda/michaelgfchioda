@@ -10,13 +10,13 @@ What's up! Welcome, I'm Michael Chioda!👋🏻
 -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=&size=40&letterSpacing=-1px&pause=1000&color=A629F7&center=true&width=1000&height=70&lines=WHAT'S+UP!+I'm+Michael+Chioda!;I'm+a+STUDENT+of+Computer+Engineering+at+UNAERP!;Welcome+to+my+portfolio!" 
+  <img src="https://readme-typing-svg.herokuapp.com?font=&size=35&letterSpacing=-1px&pause=1000&color=A629F7&center=true&width=1000&height=70&lines=WHAT'S+UP!+I'm+Michael+Chioda!;I'm+a+STUDENT+of+Computer+Engineering+at+UNAERP!;Welcome+to+my+portfolio!" 
     alt="Typing SVG"/>
 </a>
 
 <!-- Originalmente o banner estava com 1280x720 -->
 <p align="center">
-<img src="https://i.postimg.cc/C1DGxHKW/Banner1.jpg" width="1080" height="580"/>
+<img src="https://i.postimg.cc/C1DGxHKW/Banner1.jpg" width="1980" height="560"/>
 </p>
 
 <p align="center">
@@ -24,13 +24,15 @@ What's up! Welcome, I'm Michael Chioda!👋🏻
   <img src="https://img.shields.io/github/followers/michaelgfchioda?style=social" height="40"/>
 </p>
 
-<p align="center"> <strong> Seja bem-vindo ao meu portifólio! Este é o meu espaço de aprendizado e evolução no mundo da tecnologia! </strong> <p/> <br>
+<!-- <p align="center"> <strong> Seja bem-vindo ao meu portifólio! Este é o meu espaço de aprendizado e evolução no mundo da tecnologia! </strong> <p/> <br> -->
 
 <h2 align="left">
 About me👤
 </h2>
 
 <p> <strong>
+Seja bem-vindo ao meu portifólio! Este é o meu espaço de aprendizado e evolução no mundo da tecnologia!
+  
 Meu nome é Michael (sim, igual ao Michael Jackson😅), tenho 19 anos, apaixonado pela tecnologia e inovação💡e sou estudante de Engenharia da Computação na UNAERP (Universidade de Ribeirão Preto).
 
 Optei por esse curso por ter sido a área de TI que mais me chamou atenção por ser bem completo, abordando tanto hardware como software, coisas que sempre tive interesse em aprender. 
@@ -121,3 +123,5 @@ My GitHub Statistics📊 <h2/>
   <img src="https://streak-stats.demolab.com?user=michaelgfchioda&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelgfchioda&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1800" height="150"/>
 </p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=michaelgfchioda&bg_color=0d1117&color=b27edd&line=660eaf&point=b27edd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
