@@ -1,19 +1,32 @@
-<h1 align="center">
+<!--<h1 align="center">
 What's up! Welcome, I'm Michael Chioda!👋🏻
 </h1>
+-->
+
+<!--
+<a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=A629F7FF&text=%20&section=header&reversal=false"/>
+</a>
+-->
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=&size=40&letterSpacing=-1px&pause=1000&color=A629F7&center=true&width=1000&height=70&lines=WHAT'S+UP!+I'm+Michael+Chioda!;I'm+a+STUDENT+of+Computer+Engineering+at+UNAERP!;Welcome+to+my+portfolio!" 
+    alt="Typing SVG"/>
+</a>
+
+<!-- Originalmente o banner estava com 1280x720 -->
+<p align="center">
+<img src="https://i.postimg.cc/C1DGxHKW/Banner1.jpg" width="1080" height="580"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=michaelgfchioda&color=blue" height="40"/>
   <img src="https://img.shields.io/github/followers/michaelgfchioda?style=social" height="40"/>
 </p>
 
-<p align="center">
-<img src="https://i.postimg.cc/C1DGxHKW/Banner1.jpg" width="1280" height="720"/>
-</p>
+<p align="center"> <strong> Seja bem-vindo ao meu portifólio! Este é o meu espaço de aprendizado e evolução no mundo da tecnologia! </strong> <p/> <br>
 
-<p align="center"> <strong> Seja bem-vindo ao meu portifólio! Este é o meu espaço de aprendizado e evolução no mundo da tecnologia! </strong> <p/>
-
-<h2 align="center">
+<h2 align="left">
 About me👤
 </h2>
 
