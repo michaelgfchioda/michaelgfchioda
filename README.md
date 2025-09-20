@@ -101,7 +101,7 @@ Social Links
   <img src="https://img.icons8.com/?size=100&id=oaaSr6h7kwm6&format=png&color=000000" width="55" height="55"/>
 <a/>
 
-<a href="https://www.instagram.com/michael_chioda" target="_blank">
+<a href="https://www.instagram.com/michaelgfchioda" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" width="55" height="55"/>
 <a/>
 
