@@ -83,7 +83,7 @@ Developer Tools💻
   <img src="https://img.icons8.com/?size=100&id=4QbG49Iqx1gQ&format=png&color=000000" width="55" heigth="55"/>
   <img src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" width="55" heigth="55"/>
   <img src="https://img.icons8.com/?size=100&id=TUk7vxvtu6hX&format=png&color=000000" width="55" heigth="55"/>
-  <img src="https://img.icons8.com/?size=100&id=eoxMN35Z6JKg&format=png&color=000000" width="55" heigth="55"/>
+  <img src="https://img.icons8.com/?size=100&id=iBkBIBWE6tfT&format=png&color=000000" width="55" heigth="55"/>
   <img src="https://img.icons8.com/?size=100&id=PxQoyT1s0uFh&format=png&color=000000" width="55" heigth="55"/>
   <img src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" width="55" heigth="55"/>
 </p> <br>
