@@ -10,7 +10,7 @@ What's up! Welcome, I'm Michael Chioda!👋🏻
 -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=&size=35&letterSpacing=-1px&pause=1000&color=A629F7&center=true&width=1000&height=70&lines=WHAT'S+UP!+I'm+Michael+Chioda!;I'm+a+Computer+Engineering+student+at+UNAERP!;Welcome+to+my+portfolio!" 
+  <img src="https://readme-typing-svg.herokuapp.com?font=&size=35&letterSpacing=-1px&pause=1000&color=ED2100&center=true&width=1000&height=70&lines=WHAT'S+UP!+I'm+Michael+Chioda!;I'm+a+Computer+Engineering+student+at+UNAERP!;Welcome+to+my+portfolio!" 
     alt="Typing SVG"/>
 </a>
 
