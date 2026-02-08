@@ -15,6 +15,7 @@ What's up! Welcome, I'm Michael Chioda!👋🏻
 </a>
 
 <!-- Originalmente o banner estava com 1280x720 -->
+<!--
 <p align="center">
 <img src="https://i.postimg.cc/C1DGxHKW/Banner1.jpg" width="1980" height="560"/>
 </p>
@@ -23,7 +24,7 @@ What's up! Welcome, I'm Michael Chioda!👋🏻
   <img src="https://komarev.com/ghpvc/?username=michaelgfchioda&color=blue" height="40"/>
   <img src="https://img.shields.io/github/followers/michaelgfchioda?style=social" height="40"/>
 </p>
-
+-->
 <!-- <p align="center"> <strong> Seja bem-vindo ao meu portifólio! Este é o meu espaço de aprendizado e evolução no mundo da tecnologia! </strong> <p/> <br> -->
 
 <h2 align="left">
