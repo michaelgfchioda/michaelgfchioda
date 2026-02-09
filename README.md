@@ -37,7 +37,7 @@ Seja bem-vindo ao meu portifólio! Este é o meu espaço de aprendizado e evolu�
 Meu nome é Michael (sim, igual ao Michael Jackson😅), tenho 19 anos, apaixonado pela tecnologia e inovação💡e sou estudante de Engenharia da Computação na UNAERP (Universidade de Ribeirão Preto).
 
 Optei por esse curso por ter sido a área de TI que mais me chamou atenção por ser bem completo, abordando tanto hardware como software, coisas que sempre tive interesse em aprender. 
-Atualmente, estou cursando a 4° etapa do curso, e, conforme vou avançando, mais percebo que não poderia ter escolhido outra coisa para minha carreira profissional.
+Atualmente, estou cursando a 5° etapa do curso, e, conforme vou avançando, mais percebo que não poderia ter escolhido outra coisa para minha carreira profissional.
 
 Desde criança, sempre fui muito interessado em computadores, em saber como softwares, sistemas e componentes eletrônicos funcionavam e essa curiosidade e amor pela tecnologia me levou a buscar uma graduação na área, e, com certeza, futuramente adquirir mestrado e doutorado, também.
 
