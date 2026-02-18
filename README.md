@@ -125,4 +125,4 @@ My GitHub Statistics📊 <h2/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelgfchioda&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1800" height="150"/>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=michaelgfchioda&bg_color=0d1117&color=b27edd&line=660eaf&point=b27edd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=michaelgfchioda&bg_color=0d1117&color=FF0000&line=8B0000&point=FF0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
