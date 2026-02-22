@@ -34,7 +34,7 @@ About me👤
 <p> <strong>
 Seja bem-vindo ao meu portifólio! Este é o meu espaço de aprendizado e evolução no mundo da tecnologia!
   
-Meu nome é Michael, tenho 19 anos, apaixonado pela tecnologia e inovação💡e sou estudante de Engenharia da Computação na UNAERP (Universidade de Ribeirão Preto).
+Meu nome é Michael, tenho 20 anos, apaixonado pela tecnologia e inovação💡e sou estudante de Engenharia da Computação na UNAERP (Universidade de Ribeirão Preto).
 
 Optei por esse curso por ter sido a área de TI que mais me chamou atenção por ser bem completo, abordando tanto hardware como software, coisas que sempre tive interesse em aprender. 
 Atualmente, estou cursando a 5° etapa do curso, e, conforme vou avançando, mais percebo que não poderia ter escolhido outra coisa para minha carreira profissional.
