@@ -60,11 +60,16 @@ I'm learning📖
 </h2>
 
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="55" height="55"/> <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" width="55" height="55"/>
-  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="55" height="55"/> <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="55" height="55"/>
-  <img src="https://img.icons8.com/?size=100&id=u9R54eMKS8fw&format=png&color=000000" width="55" height="55"/> <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="55" height="55"/> 
-  <img src="https://img.icons8.com/?size=100&id=4QbG49Iqx1gQ&format=png&color=000000" width="55" height="55"/> <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" width="55" height="55"/>
-  <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" width="55" height="55"/> <img src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" width="55" height="55"/>
+  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="55" height="55"/> 
+  <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" width="55" height="55"/>
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="55" height="55"/> 
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="55" height="55"/>
+  <img src="https://img.icons8.com/?size=100&id=u9R54eMKS8fw&format=png&color=000000" width="55" height="55"/> 
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="55" height="55"/> 
+  <img src="https://img.icons8.com/?size=100&id=4QbG49Iqx1gQ&format=png&color=000000" width="55" height="55"/> 
+  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" width="55" height="55"/>
+  <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" width="55" height="55"/> 
+  <img src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" width="55" height="55"/>
   
 <p/>
 
@@ -87,6 +92,7 @@ Developer Tools💻
   <img src="https://img.icons8.com/?size=100&id=iBkBIBWE6tfT&format=png&color=000000" width="55" heigth="55"/>
   <img src="https://img.icons8.com/?size=100&id=PxQoyT1s0uFh&format=png&color=000000" width="55" heigth="55"/>
   <img src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" width="55" heigth="55"/>
+  
 </p> <br>
 
 <h2 align="center">
@@ -94,25 +100,12 @@ Social Links
 </h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/michael-chioda-25223b309" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="55" height="55"/>
-<a/>
-
-<a href="https://x.com/michaelchioda" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=oaaSr6h7kwm6&format=png&color=000000" width="55" height="55"/>
-<a/>
-
-<a href="https://www.instagram.com/michaelgfchioda" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" width="55" height="55"/>
-<a/>
-
-<a href="https://www.youtube.com/@michaelchioda17" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" width="55" height="55"/>
-<a/>
-
-<a href="mailto:michaelgfchioda14@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="55" height="55"/>
-<a/>
+<a href="https://www.linkedin.com/in/michael-chioda-25223b309" target="_blank">  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="55" height="55"/> <a/>
+<a href="https://x.com/michaelchioda" target="_blank">  <img src="https://img.icons8.com/?size=100&id=oaaSr6h7kwm6&format=png&color=000000" width="55" height="55"/> <a/>
+<a href="https://www.instagram.com/michaelgfchioda" target="_blank">  <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" width="55" height="55"/> <a/>
+<a href="https://www.youtube.com/@michaelchioda17" target="_blank">  <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" width="55" height="55"/> <a/>
+<a href="mailto:michaelgfchioda18@gmail.com" target="_blank">  <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="55" height="55"/> <a/>
+  
 </p>
 
 <br>
