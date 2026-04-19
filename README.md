@@ -32,90 +32,96 @@ About me👤
 </h2>
 
 <p> <strong>
-Seja bem-vindo ao meu portifólio! Este é o meu espaço de aprendizado e evolução no mundo da tecnologia!
-  
-Meu nome é Michael, tenho 20 anos, apaixonado pela tecnologia e inovação💡e sou estudante de Engenharia da Computação na UNAERP (Universidade de Ribeirão Preto).
+Welcome to my portfolio! This is my space for learning and evolving in the world of technology.
 
-Optei por esse curso por ter sido a área de TI que mais me chamou atenção por ser bem completo, abordando tanto hardware como software, coisas que sempre tive interesse em aprender. 
-Atualmente, estou cursando a 5° etapa do curso, e, conforme vou avançando, mais percebo que não poderia ter escolhido outra coisa para minha carreira profissional.
+My name is Michael, I'm 20 years old, and I’m passionate about innovation and technology 💡. I am currently a Computer Engineering student at UNAERP (University of Ribeirão Preto), currently in my 5th semester (junior year).
 
-Desde criança, sempre fui muito interessado em computadores, em saber como softwares, sistemas e componentes eletrônicos funcionavam e essa curiosidade e amor pela tecnologia me levou a buscar uma graduação na área, e, com certeza, futuramente adquirir mestrado e doutorado, também.
+I chose Computer Engineering because it offers a comprehensive view of the IT field, bridging the gap between hardware and software—two areas I’ve always been eager to master. As I progress through the program, I become more certain that this is the right career path for me.
 
-Estou constantemente em busca de novas fontes e oportunidades para adquirir conhecimento, explorando metodologias e ferramentas que me permitam aprimorar minhas habilidades e me tornar o melhor profissional possível.
+Ever since I was a child, I've been fascinated by how computers, software, and electronic components work. This curiosity drove me to pursue a degree in the field, and I fully intend to pursue a Master’s and a PhD in the future.
+
+I am constantly seeking new ways to expand my knowledge, exploring methodologies and tools that allow me to sharpen my skills and become the best professional I can be.
 </strong> </p>
 
-> "A inteligência que você deseja está no estudo que você procrastina."
+> "The intelligence you desire lies in the study you procrastinate."
 
 <p> <strong>
-Estou construindo minha trajetória e me desenvolvendo nas áreas de desenvolvimento full-stack, database, e muitas outras!
+I am currently building my career path with a focus on Full-Stack Development, Databases, and much more!
 
-Me acompanhe nesta jornada acadêmica!
+Follow me on this academic journey!
 </strong> </p>
 
-> "Quem tem fome de resultado, não se alimenta de desculpas"
+> "Those who are hungry for results don't feed on excuses."
 
 <br>
-<h2 align="center">
-I'm learning📖
-</h2>
-
-<p align="center">
-  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="55" height="55"/> 
-  <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" width="55" height="55"/>
-  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="55" height="55"/> 
-  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="55" height="55"/>
-  <img src="https://img.icons8.com/?size=100&id=u9R54eMKS8fw&format=png&color=000000" width="55" height="55"/> 
-  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="55" height="55"/> 
-  <img src="https://img.icons8.com/?size=100&id=4QbG49Iqx1gQ&format=png&color=000000" width="55" height="55"/> 
-  <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" width="55" height="55"/>
-  <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" width="55" height="55"/> 
-  <img src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" width="55" height="55"/>
-  
-<p/>
-
-<br>
-<h2 align="center">
-Developer Tools💻
-<h2/>
-
-<p align="center">
-  <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" width="55" heigth="55"/>
-  <img src="https://images.icon-icons.com/4051/PNG/512/python_pycharm_icon_icon_257066.png" width="55" heigth="55"/>
-  <img src="https://img.icons8.com/?size=100&id=ztKGqjsWmeBH&format=png&color=000000" width="55" heigth="55"/>
-  <img src="https://img.icons8.com/?size=100&id=38792&format=png&color=000000" width="55" heigth="55"/>
-  <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" width="55" heigth="55"/>
-  <img src="https://a.fsdn.com/allura/p/wampserver/icon?1716278993?&w=90" width="55" heigth="55"/>
-  <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="55" heigth="55"/>
-  <img src="https://img.icons8.com/?size=100&id=4QbG49Iqx1gQ&format=png&color=000000" width="55" heigth="55"/>
-  <img src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" width="55" heigth="55"/>
-  <img src="https://img.icons8.com/?size=100&id=TUk7vxvtu6hX&format=png&color=000000" width="55" heigth="55"/>
-  <img src="https://img.icons8.com/?size=100&id=iBkBIBWE6tfT&format=png&color=000000" width="55" heigth="55"/>
-  <img src="https://img.icons8.com/?size=100&id=PxQoyT1s0uFh&format=png&color=000000" width="55" heigth="55"/>
-  <img src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" width="55" heigth="55"/>
-  
-</p> <br>
-
-<h2 align="center">
-Social Links
-</h2>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/michael-chioda-25223b309" target="_blank">  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="55" height="55"/> <a/>
-<a href="https://x.com/michaelchioda" target="_blank">  <img src="https://img.icons8.com/?size=100&id=oaaSr6h7kwm6&format=png&color=000000" width="55" height="55"/> <a/>
-<a href="https://www.instagram.com/michaelgfchioda" target="_blank">  <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" width="55" height="55"/> <a/>
-<a href="https://www.youtube.com/@michaelchioda17" target="_blank">  <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" width="55" height="55"/> <a/>
-<a href="mailto:michaelgfchioda18@gmail.com" target="_blank">  <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="55" height="55"/> <a/>
-  
-</p>
+<h2 align="center"> I'm learning 📖 </h2>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="50" height="50"/><br>C</td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" width="50" height="50"/><br>Python</td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="50" height="50"/><br>HTML5</td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="50" height="50"/><br>CSS3</td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=u9R54eMKS8fw&format=png&color=000000" width="50" height="50"/><br>GitHub</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="50" height="50"/><br>Git</td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=4QbG49Iqx1gQ&format=png&color=000000" width="50" height="50"/><br>Terminal</td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" width="50" height="50"/><br>Linux</td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" width="50" height="50"/><br>MySQL</td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" width="50" height="50"/><br>Oracle</td>
+  </tr>
+</table>
 
 <br>
-<h2 align="center">
-My GitHub Statistics📊 <h2/>
+<h2 align="center"> Developer Tools 💻 </h2>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" width="50" height="50"/></td>
+    <td align="center"><img src="https://images.icon-icons.com/4051/PNG/512/python_pycharm_icon_icon_257066.png" width="50" height="50"/></td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=ztKGqjsWmeBH&format=png&color=000000" width="50" height="50"/></td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=38792&format=png&color=000000" width="50" height="50"/></td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" width="50" height="50"/></td>
+    <td align="center"><img src="https://a.fsdn.com/allura/p/wampserver/icon?1716278993?&w=90" width="50" height="50"/></td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="50" height="50"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=4QbG49Iqx1gQ&format=png&color=000000" width="50" height="50"/></td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" width="50" height="50"/></td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=TUk7vxvtu6hX&format=png&color=000000" width="50" height="50"/></td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=iBkBIBWE6tfT&format=png&color=000000" width="50" height="50"/></td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=PxQoyT1s0uFh&format=png&color=000000" width="50" height="50"/></td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" width="50" height="50"/></td>
+    <td align="center">---</td>
+  </tr>
+</table> <br>
 
-<p align="center">
+<h2 align="center"> Social Links 👥 </h2>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/michael-chioda-25223b309" target="_blank"> <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="55" height="55"/> </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/michaelchioda" target="_blank"> <img src="https://img.icons8.com/?size=100&id=oaaSr6h7kwm6&format=png&color=000000" width="55" height="55"/> </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/michaelgfchioda" target="_blank"> <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" width="55" height="55"/> </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/@michaelchioda17" target="_blank"> <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" width="55" height="55"/> </a>
+    </td>
+    <td align="center">
+      <a href="mailto:michaelgfchioda18@gmail.com" target="_blank"> <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="55" height="55"/> </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+<h2 align="center"> My GitHub Statistics 📊 <h2/>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=michaelgfchioda&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://streak-stats.demolab.com?user=michaelgfchioda&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelgfchioda&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1800" height="150"/>
-</p>
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=michaelgfchioda&bg_color=0d1117&color=FF0000&line=8B0000&point=FF0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
