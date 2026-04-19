@@ -108,7 +108,7 @@ Follow me on this academic journey!
       <a href="https://www.instagram.com/michaelgfchioda" target="_blank"> <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" width="55" height="55"/> </a>
     </td>
     <td align="center">
-      <a href="https://www.youtube.com/@michaelchioda17" target="_blank"> <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" width="55" height="55"/> </a>
+      <a href="https://www.youtube.com/@michaelgfchioda" target="_blank"> <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" width="55" height="55"/> </a>
     </td>
     <td align="center">
       <a href="mailto:michaelgfchioda18@gmail.com" target="_blank"> <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="55" height="55"/> </a>
