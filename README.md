@@ -89,7 +89,7 @@ Follow me on this academic journey!
   <tr>
     <td align="center"><img src="https://img.icons8.com/?size=100&id=ztKGqjsWmeBH&format=png&color=000000" width="50" height="50"/><br>Notepad++</td>
     <td align="center"><img src="https://a.fsdn.com/allura/p/wampserver/icon?1716278993?&w=90" width="50" height="50"/><br>Wampserver</td>
-    <td align="center"><img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="50" height="50"/>Power BI</td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="50" height="50"/><br>Power BI</td>
     <td align="center"><img src="https://img.icons8.com/?size=100&id=TUk7vxvtu6hX&format=png&color=000000" width="50" height="50"/><br>ChatGPT</td>
     <td align="center"><img src="https://img.icons8.com/?size=100&id=iBkBIBWE6tfT&format=png&color=000000" width="50" height="50"/><br>Gemini</td>
     <td align="center"><img src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" width="50" height="50"/><br>Arduino IDE</td>
