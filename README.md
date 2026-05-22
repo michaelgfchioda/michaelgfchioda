@@ -105,7 +105,6 @@ Follow me on this academic journey!
     <td align="center"><img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" width="50" height="50"/><br>MySQL</td>
     <td align="center"><img src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" width="50" height="50"/><br>SQL Developer</td>
     <td align="center"><img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="50" height="50"/><br>PostgreSQL</td>
-    <td align="center"><img src="https://img.icons8.com/?size=100&id=kjaF4LlvyR6g&format=png&color=000000" width="50" height="50"/><br>DBeaver</td>
   </tr>
 </table> <br>
 
