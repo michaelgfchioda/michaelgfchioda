@@ -92,7 +92,7 @@ Follow me on this academic journey!
   </tr>
 </table> <br>
 
-<h2 align="center"> Interface Design ✍🏻 </h2>
+<h2 align="center"> Interface Prototype Design ✍🏻 </h2>
 <table align="center">
   <tr>
     <td align="center"><img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" width="50" height="50"/><br>Figma</td>
