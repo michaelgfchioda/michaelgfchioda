@@ -54,7 +54,7 @@ Follow me on this academic journey!
 > "Those who are hungry for results don't feed on excuses."
 
 <br>
-<h2 align="center"> I'm learning 📖 </h2>
+<h2 align="center"> My technologies 📖 </h2>
 <table align="center">
   <tr>
     <td align="center"><img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="50" height="50"/><br>C</td>
@@ -82,18 +82,30 @@ Follow me on this academic journey!
     <td align="center"><img src="https://img.icons8.com/?size=100&id=4djt356tq8UO&format=png&color=000000" width="50" height="50"/><br>NetBeans</td>
     <td align="center"><img src="https://images.icon-icons.com/4051/PNG/512/python_pycharm_icon_icon_257066.png" width="50" height="50"/><br>PyCharm</td>
     <td align="center"><img src="https://img.icons8.com/?size=100&id=38792&format=png&color=000000" width="50" height="50"/><br>Oracle VM</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=ztKGqjsWmeBH&format=png&color=000000" width="50" height="50"/><br>Notepad++</td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" width="50" height="50"/><br>Arduino IDE</td>
+    <td align="center"><img src="https://a.fsdn.com/allura/p/wampserver/icon?1716278993?&w=90" width="50" height="50"/><br>Wampserver</td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="50" height="50"/><br>Power BI</td>
+    <!--- <td align="center"><br>- - -</td> --->
+  </tr>
+</table> <br>
+
+<h2 align="center"> SGBDs 🌎 </h2>
+<table align="center">
+  <tr>
     <td align="center"><img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" width="50" height="50"/><br>MySQL</td>
     <td align="center"><img src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" width="50" height="50"/><br>SQL Developer</td>
     <td align="center"><img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="50" height="50"/><br>PostgreSQL</td>
   </tr>
+</table> <br>
+
+<h2 align="center"> LLMs 🤖 </h2>
+<table align="center">
   <tr>
-    <td align="center"><img src="https://img.icons8.com/?size=100&id=ztKGqjsWmeBH&format=png&color=000000" width="50" height="50"/><br>Notepad++</td>
-    <td align="center"><img src="https://a.fsdn.com/allura/p/wampserver/icon?1716278993?&w=90" width="50" height="50"/><br>Wampserver</td>
-    <td align="center"><img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="50" height="50"/><br>Power BI</td>
     <td align="center"><img src="https://img.icons8.com/?size=100&id=TUk7vxvtu6hX&format=png&color=000000" width="50" height="50"/><br>ChatGPT</td>
     <td align="center"><img src="https://img.icons8.com/?size=100&id=iBkBIBWE6tfT&format=png&color=000000" width="50" height="50"/><br>Gemini</td>
-    <td align="center"><img src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" width="50" height="50"/><br>Arduino IDE</td>
-    <td align="center"><br>- - -</td>
   </tr>
 </table> <br>
 
