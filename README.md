@@ -92,12 +92,20 @@ Follow me on this academic journey!
   </tr>
 </table> <br>
 
+<h2 align="center"> Interface Design ✍🏻 </h2>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" width="50" height="50"/><br>Figma</td>
+  </tr>
+</table> <br>
+
 <h2 align="center"> SGBDs 🌎 </h2>
 <table align="center">
   <tr>
     <td align="center"><img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" width="50" height="50"/><br>MySQL</td>
     <td align="center"><img src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" width="50" height="50"/><br>SQL Developer</td>
     <td align="center"><img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="50" height="50"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=kjaF4LlvyR6g&format=png&color=000000" width="50" height="50"/><br>DBeaver</td>
   </tr>
 </table> <br>
 
@@ -106,6 +114,7 @@ Follow me on this academic journey!
   <tr>
     <td align="center"><img src="https://img.icons8.com/?size=100&id=TUk7vxvtu6hX&format=png&color=000000" width="50" height="50"/><br>ChatGPT</td>
     <td align="center"><img src="https://img.icons8.com/?size=100&id=iBkBIBWE6tfT&format=png&color=000000" width="50" height="50"/><br>Gemini</td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=zQjzFjPpT2Ek&format=png&color=000000" width="50" height="50"/><br>Claude AI</td>
   </tr>
 </table> <br>
 
