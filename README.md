@@ -34,7 +34,7 @@ About me👤
 <p> <strong>
 Welcome to my portfolio! This is my space for learning and evolving in the world of technology.
 
-My name is Michael, I'm 20 years old, and I’m passionate about innovation and technology 💡. I am currently a Computer Engineering student at UNAERP (University of Ribeirão Preto), currently in my 5th semester (junior year).
+My name is Michael, I'm 20 years old, and I’m passionate about innovation and technology 💡. I am currently a Computer Engineering student at UNAERP (University of Ribeirão Preto), currently in my 6th semester (junior year).
 
 I chose Computer Engineering because it offers a comprehensive view of the IT field, bridging the gap between hardware and software—two areas I’ve always been eager to master. As I progress through the program, I become more certain that this is the right career path for me.
 
